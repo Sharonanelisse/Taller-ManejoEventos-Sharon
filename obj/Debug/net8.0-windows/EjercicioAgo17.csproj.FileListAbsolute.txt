@@ -1,0 +1,16 @@
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\bin\Debug\net8.0-windows\EjercicioAgo17.exe
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\bin\Debug\net8.0-windows\EjercicioAgo17.deps.json
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\bin\Debug\net8.0-windows\EjercicioAgo17.runtimeconfig.json
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\bin\Debug\net8.0-windows\EjercicioAgo17.dll
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\bin\Debug\net8.0-windows\EjercicioAgo17.pdb
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\EjercicioAgo17.ControlTarea.resources
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\EjercicioAgo17.csproj.GenerateResource.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\EjercicioAgo17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\EjercicioAgo17.AssemblyInfoInputs.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\EjercicioAgo17.AssemblyInfo.cs
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\EjercicioAgo17.csproj.CoreCompileInputs.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\EjercicioAgo17.dll
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\refint\EjercicioAgo17.dll
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\EjercicioAgo17.pdb
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\EjercicioAgo17.genruntimeconfig.cache
+C:\Users\sharonmarroquin\Documents\Programacion\Visual Studio\EjercicioAgo17\EjercicioAgo17\obj\Debug\net8.0-windows\ref\EjercicioAgo17.dll
